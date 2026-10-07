@@ -6,6 +6,9 @@ O backend foi reconstruído a partir do material preservado do projeto original 
 
 > **Contexto do repositório:** este projeto faz parte da reconstrução do FocusFlow após a perda do repositório original. O serviço online original foi preservado e utilizado como referência durante a recuperação.
 
+> 🎨 **[Frontend](https://github.com/Weslley-141/FocusFlow-Frontend)** ·
+> 🚀 **[Aplicação online](https://focus-flow-frontend-dusky.vercel.app/)**
+
 ---
 
 ## ✨ Funcionalidades
